@@ -1,0 +1,2 @@
+# OCEAN-PLASTIC-POLLUTION-PREDICTION
+Predict plastic pollution in ocean using machine learning model. large dataset more than 1 lakh rows used to predict the pollutiont. perform data preproessing and encode categorical column with label enconding. Python, Pandas, Sklearn, matplotlib used to visualize the data. my R2 score is 96.89 showing strong predictive capability
